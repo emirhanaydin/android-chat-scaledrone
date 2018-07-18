@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Chat</string>
+    <string name="input_placeholder">Write a message</string>
+    <string name="ic_send_black_description">Send button</string>
 </resources>
