@@ -41,6 +41,7 @@
             android:layout_marginStart="10dp"
             android:background="@drawable/ic_send_black_24dp"
             android:contentDescription="@string/ic_send_black_description"
+            android:onClick="sendMessage"
             android:padding="20dp"
             android:scaleType="fitCenter" />
     </LinearLayout>
